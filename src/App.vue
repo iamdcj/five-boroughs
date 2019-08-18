@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <Landing msg="Welcome to the Five Boroughs of NYC" />
-  </div>
+  <Landing msg="The Five Boroughs of NYC" />
 </template>
 
 <script>
@@ -16,7 +14,7 @@ export default {
 </script>
 
 <style>
-#app {
+:root {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
