@@ -1,10 +1,12 @@
 # Five Boroughs
 
-A NYC Five Boroughs wiki data-scraper built using Vue
+A NYC Five Boroughs wiki data-scraper built using Vue.
 
 ## Why?
 
-I just wanted to play with [Vue](https://vuejs.org/)
+I just wanted to play with [Vue](https://vuejs.org/), I ❤️ NYC, and it was 5am.
+
+---
 
 ## Project setup
 
